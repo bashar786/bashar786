@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/mubasharalee/">
-    <img src="https://img.shields.io/badge/MubasharAlee-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Mubashar Alee-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 # 💻 Tech Stack:
