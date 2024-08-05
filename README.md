@@ -1,11 +1,14 @@
-[![MasterHead][https://vintechdesign.com/wp-content/uploads/2023/07/web-development.gif]
+[![MasterHead](https://vintechdesign.com/wp-content/uploads/2023/07/web-development.gif)](https://vintechdesign.com)
 <h1 align="center">Hi 👋, Mubashar Alee</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 <!-- <img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zillabbas&label=Profile%20views&color=0e75b6&style=flat" alt="bashar786" /> </p>
 
-<p align="left"> <a href="https://the7technologies.com/" target="_blank"> <img src="https://img.shields.io/badge/Website-Visit%20Us-blue?style=for-the-badge&logo=data:image/png;base64,<BASE64_ENCODED_IMAGE>" alt="The 7 Technologies" /></a></p>
+<p align="left"><a href="https://the7technologies.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-🌐%20Visit%20Us-blue?style=for-the-badge" alt="Visit Us"/>
+</a>
+</p>
 
 - 🔭 I’m currently working with **US, UK, and Australian Agencies**
 
