@@ -5,7 +5,7 @@
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zillabbas&label=Profile%20views&color=0e75b6&style=flat" alt="bashar786" /> </p>
 
-<p align="left"><a href="https://the7technologies.com/" target="_blank">
+<p align="left"><a href="https://mubbashar.com/" target="_blank">
   <img src="https://img.shields.io/badge/Website-🌐%20Visit%20Us-blue?style=for-the-badge" alt="Visit Us"/>
 </a>
 </p>
